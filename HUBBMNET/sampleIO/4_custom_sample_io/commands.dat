@@ -1,0 +1,63 @@
+62
+MESSAGE C E #Poopy-di scoop, Scoop-diddy-whoop, Whoop-di-scoop-di-poop.#
+MESSAGE E C #Poop-di-scoopty, Scoopty-whoop.#
+MESSAGE A E #Whoopity-scoop, whoop-poop.#
+MESSAGE A E #whoop-poop, Whoopity-scoop.#
+MESSAGE B A #Poop-diddy, whoop-scoop.#
+MESSAGE D E #Poop, poop.#
+MESSAGE C A #Scoop-diddy-whoop.#
+MESSAGE B C #Whoop-diddy-scoop.#
+MESSAGE A D #Whoop-diddy-scoop, poop.#
+MESSAGE A B #whoop-poop, Whoopity-scoop.#
+MESSAGE A C #ENDL.#
+SHOW_FRAME_INFO A in 1
+SHOW_FRAME_INFO B out 2
+SHOW_FRAME_INFO C in 3
+SHOW_FRAME_INFO A in 3
+SHOW_FRAME_INFO B out 2
+SHOW_FRAME_INFO C in 1
+SHOW_Q_INFO A out
+SHOW_Q_INFO B out
+SHOW_Q_INFO C out
+SHOW_Q_INFO D out
+SHOW_Q_INFO E out
+SHOW_Q_INFO A in
+SHOW_Q_INFO B in
+SHOW_Q_INFO C in
+SHOW_Q_INFO D in
+SHOW_Q_INFO E in
+SHOW_FRAME_INFO C in 5
+SEND
+RECEIVE
+SEND
+RECEIVE
+SEND
+RECEIVE
+SEND
+RECEIVE
+SEND
+RECEIVE
+SEND
+RECEIVE
+SEND
+RECEIVE
+SEND
+RECEIVE
+SEND
+RECEIVE
+SEND
+RECEIVE
+SEND
+RECEIVE
+SHOW_FRAME_INFO A in 1
+SHOW_FRAME_INFO B out 2
+SHOW_FRAME_INFO C in 3
+SHOW_FRAME_INFO A in 3
+SHOW_FRAME_INFO B out 2
+SHOW_FRAME_INFO C in 1
+PRINT_LOG A
+PRINT_LOG B
+PRINT_LOG C
+PRINT_LOG D
+PRINT_LOG E
+MOD_DPTOOLS_EAVESDROP C

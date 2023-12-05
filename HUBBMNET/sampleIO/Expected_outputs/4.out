@@ -1,0 +1,1323 @@
+---------------------------------------------------------------------------------
+Command: MESSAGE C E #Poopy-di scoop, Scoop-diddy-whoop, Whoop-di-scoop-di-poop.#
+---------------------------------------------------------------------------------
+Message to be sent: "Poopy-di scoop, Scoop-diddy-whoop, Whoop-di-scoop-di-poop."
+
+Frame #1
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: E
+Message chunk carried: "Poopy-di s"
+Number of hops so far: 0
+--------
+Frame #2
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: E
+Message chunk carried: "coop, Scoo"
+Number of hops so far: 0
+--------
+Frame #3
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: E
+Message chunk carried: "p-diddy-wh"
+Number of hops so far: 0
+--------
+Frame #4
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: E
+Message chunk carried: "oop, Whoop"
+Number of hops so far: 0
+--------
+Frame #5
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: E
+Message chunk carried: "-di-scoop-"
+Number of hops so far: 0
+--------
+Frame #6
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: E
+Message chunk carried: "di-poop."
+Number of hops so far: 0
+--------
+------------------------------------------------------
+Command: MESSAGE E C #Poop-di-scoopty, Scoopty-whoop.#
+------------------------------------------------------
+Message to be sent: "Poop-di-scoopty, Scoopty-whoop."
+
+Frame #1
+Sender MAC address: EEEEEEEEEE, Receiver MAC address: DDDDDDDDDD
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "Poop-di-sc"
+Number of hops so far: 0
+--------
+Frame #2
+Sender MAC address: EEEEEEEEEE, Receiver MAC address: DDDDDDDDDD
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "oopty, Sco"
+Number of hops so far: 0
+--------
+Frame #3
+Sender MAC address: EEEEEEEEEE, Receiver MAC address: DDDDDDDDDD
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "opty-whoop"
+Number of hops so far: 0
+--------
+Frame #4
+Sender MAC address: EEEEEEEEEE, Receiver MAC address: DDDDDDDDDD
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "."
+Number of hops so far: 0
+--------
+--------------------------------------------------
+Command: MESSAGE A E #Whoopity-scoop, whoop-poop.#
+--------------------------------------------------
+Message to be sent: "Whoopity-scoop, whoop-poop."
+
+Frame #1
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: E
+Message chunk carried: "Whoopity-s"
+Number of hops so far: 0
+--------
+Frame #2
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: E
+Message chunk carried: "coop, whoo"
+Number of hops so far: 0
+--------
+Frame #3
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: E
+Message chunk carried: "p-poop."
+Number of hops so far: 0
+--------
+--------------------------------------------------
+Command: MESSAGE A E #whoop-poop, Whoopity-scoop.#
+--------------------------------------------------
+Message to be sent: "whoop-poop, Whoopity-scoop."
+
+Frame #1
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: E
+Message chunk carried: "whoop-poop"
+Number of hops so far: 0
+--------
+Frame #2
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: E
+Message chunk carried: ", Whoopity"
+Number of hops so far: 0
+--------
+Frame #3
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: E
+Message chunk carried: "-scoop."
+Number of hops so far: 0
+--------
+-----------------------------------------------
+Command: MESSAGE B A #Poop-diddy, whoop-scoop.#
+-----------------------------------------------
+Message to be sent: "Poop-diddy, whoop-scoop."
+
+Frame #1
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: AAAAAAAAAA
+Sender IP address: 4.3.2.1, Receiver IP address: 1.2.3.4
+Sender port number: 895, Receiver port number: 7541
+Sender ID: B, Receiver ID: A
+Message chunk carried: "Poop-diddy"
+Number of hops so far: 0
+--------
+Frame #2
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: AAAAAAAAAA
+Sender IP address: 4.3.2.1, Receiver IP address: 1.2.3.4
+Sender port number: 895, Receiver port number: 7541
+Sender ID: B, Receiver ID: A
+Message chunk carried: ", whoop-sc"
+Number of hops so far: 0
+--------
+Frame #3
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: AAAAAAAAAA
+Sender IP address: 4.3.2.1, Receiver IP address: 1.2.3.4
+Sender port number: 895, Receiver port number: 7541
+Sender ID: B, Receiver ID: A
+Message chunk carried: "oop."
+Number of hops so far: 0
+--------
+----------------------------------
+Command: MESSAGE D E #Poop, poop.#
+----------------------------------
+Message to be sent: "Poop, poop."
+
+Frame #1
+Sender MAC address: DDDDDDDDDD, Receiver MAC address: EEEEEEEEEE
+Sender IP address: 9.9.9.9, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: D, Receiver ID: E
+Message chunk carried: "Poop, poop"
+Number of hops so far: 0
+--------
+Frame #2
+Sender MAC address: DDDDDDDDDD, Receiver MAC address: EEEEEEEEEE
+Sender IP address: 9.9.9.9, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: D, Receiver ID: E
+Message chunk carried: "."
+Number of hops so far: 0
+--------
+-----------------------------------------
+Command: MESSAGE C A #Scoop-diddy-whoop.#
+-----------------------------------------
+Message to be sent: "Scoop-diddy-whoop."
+
+Frame #1
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: AAAAAAAAAA
+Sender IP address: 8.8.8.8, Receiver IP address: 1.2.3.4
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: A
+Message chunk carried: "Scoop-didd"
+Number of hops so far: 0
+--------
+Frame #2
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: AAAAAAAAAA
+Sender IP address: 8.8.8.8, Receiver IP address: 1.2.3.4
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: A
+Message chunk carried: "y-whoop."
+Number of hops so far: 0
+--------
+-----------------------------------------
+Command: MESSAGE B C #Whoop-diddy-scoop.#
+-----------------------------------------
+Message to be sent: "Whoop-diddy-scoop."
+
+Frame #1
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 4.3.2.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: B, Receiver ID: C
+Message chunk carried: "Whoop-didd"
+Number of hops so far: 0
+--------
+Frame #2
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 4.3.2.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: B, Receiver ID: C
+Message chunk carried: "y-scoop."
+Number of hops so far: 0
+--------
+-----------------------------------------------
+Command: MESSAGE A D #Whoop-diddy-scoop, poop.#
+-----------------------------------------------
+Message to be sent: "Whoop-diddy-scoop, poop."
+
+Frame #1
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: D
+Message chunk carried: "Whoop-didd"
+Number of hops so far: 0
+--------
+Frame #2
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: D
+Message chunk carried: "y-scoop, p"
+Number of hops so far: 0
+--------
+Frame #3
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: D
+Message chunk carried: "oop."
+Number of hops so far: 0
+--------
+--------------------------------------------------
+Command: MESSAGE A B #whoop-poop, Whoopity-scoop.#
+--------------------------------------------------
+Message to be sent: "whoop-poop, Whoopity-scoop."
+
+Frame #1
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "whoop-poop"
+Number of hops so far: 0
+--------
+Frame #2
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: ", Whoopity"
+Number of hops so far: 0
+--------
+Frame #3
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "-scoop."
+Number of hops so far: 0
+--------
+----------------------------
+Command: MESSAGE A C #ENDL.#
+----------------------------
+Message to be sent: "ENDL."
+
+Frame #1
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 1.2.3.4, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: C
+Message chunk carried: "ENDL."
+Number of hops so far: 0
+--------
+-------------------------------
+Command: SHOW_FRAME_INFO A in 1
+-------------------------------
+No such frame.
+--------------------------------
+Command: SHOW_FRAME_INFO B out 2
+--------------------------------
+Current Frame #2 on the outgoing queue of client B
+Carried Message: ", whoop-sc"
+Layer 0 info: Sender ID: B, Receiver ID: A
+Layer 1 info: Sender port number: 895, Receiver port number: 7541
+Layer 2 info: Sender IP address: 4.3.2.1, Receiver IP address: 1.2.3.4
+Layer 3 info: Sender MAC address: BBBBBBBBBB, Receiver MAC address: AAAAAAAAAA
+Number of hops so far: 0
+-------------------------------
+Command: SHOW_FRAME_INFO C in 3
+-------------------------------
+No such frame.
+-------------------------------
+Command: SHOW_FRAME_INFO A in 3
+-------------------------------
+No such frame.
+--------------------------------
+Command: SHOW_FRAME_INFO B out 2
+--------------------------------
+Current Frame #2 on the outgoing queue of client B
+Carried Message: ", whoop-sc"
+Layer 0 info: Sender ID: B, Receiver ID: A
+Layer 1 info: Sender port number: 895, Receiver port number: 7541
+Layer 2 info: Sender IP address: 4.3.2.1, Receiver IP address: 1.2.3.4
+Layer 3 info: Sender MAC address: BBBBBBBBBB, Receiver MAC address: AAAAAAAAAA
+Number of hops so far: 0
+-------------------------------
+Command: SHOW_FRAME_INFO C in 1
+-------------------------------
+No such frame.
+--------------------------
+Command: SHOW_Q_INFO A out
+--------------------------
+Client A Outgoing Queue Status
+Current total number of frames: 13
+--------------------------
+Command: SHOW_Q_INFO B out
+--------------------------
+Client B Outgoing Queue Status
+Current total number of frames: 5
+--------------------------
+Command: SHOW_Q_INFO C out
+--------------------------
+Client C Outgoing Queue Status
+Current total number of frames: 8
+--------------------------
+Command: SHOW_Q_INFO D out
+--------------------------
+Client D Outgoing Queue Status
+Current total number of frames: 2
+--------------------------
+Command: SHOW_Q_INFO E out
+--------------------------
+Client E Outgoing Queue Status
+Current total number of frames: 4
+-------------------------
+Command: SHOW_Q_INFO A in
+-------------------------
+Client A Incoming Queue Status
+Current total number of frames: 0
+-------------------------
+Command: SHOW_Q_INFO B in
+-------------------------
+Client B Incoming Queue Status
+Current total number of frames: 0
+-------------------------
+Command: SHOW_Q_INFO C in
+-------------------------
+Client C Incoming Queue Status
+Current total number of frames: 0
+-------------------------
+Command: SHOW_Q_INFO D in
+-------------------------
+Client D Incoming Queue Status
+Current total number of frames: 0
+-------------------------
+Command: SHOW_Q_INFO E in
+-------------------------
+Client E Incoming Queue Status
+Current total number of frames: 0
+-------------------------------
+Command: SHOW_FRAME_INFO C in 5
+-------------------------------
+No such frame.
+-------------
+Command: SEND
+-------------
+Client A sending frame #1 to client B
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: E
+Message chunk carried: "Whoopity-s"
+Number of hops so far: 1
+--------
+Client A sending frame #2 to client B
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: E
+Message chunk carried: "coop, whoo"
+Number of hops so far: 1
+--------
+Client A sending frame #3 to client B
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: E
+Message chunk carried: "p-poop."
+Number of hops so far: 1
+--------
+Client A sending frame #1 to client B
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: E
+Message chunk carried: "whoop-poop"
+Number of hops so far: 1
+--------
+Client A sending frame #2 to client B
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: E
+Message chunk carried: ", Whoopity"
+Number of hops so far: 1
+--------
+Client A sending frame #3 to client B
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: E
+Message chunk carried: "-scoop."
+Number of hops so far: 1
+--------
+Client A sending frame #1 to client B
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: D
+Message chunk carried: "Whoop-didd"
+Number of hops so far: 1
+--------
+Client A sending frame #2 to client B
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: D
+Message chunk carried: "y-scoop, p"
+Number of hops so far: 1
+--------
+Client A sending frame #3 to client B
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: D
+Message chunk carried: "oop."
+Number of hops so far: 1
+--------
+Client A sending frame #1 to client B
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "whoop-poop"
+Number of hops so far: 1
+--------
+Client A sending frame #2 to client B
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: ", Whoopity"
+Number of hops so far: 1
+--------
+Client A sending frame #3 to client B
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "-scoop."
+Number of hops so far: 1
+--------
+Client A sending frame #1 to client C
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 1.2.3.4, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: C
+Message chunk carried: "ENDL."
+Number of hops so far: 1
+--------
+Client B sending frame #1 to client A
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: AAAAAAAAAA
+Sender IP address: 4.3.2.1, Receiver IP address: 1.2.3.4
+Sender port number: 895, Receiver port number: 7541
+Sender ID: B, Receiver ID: A
+Message chunk carried: "Poop-diddy"
+Number of hops so far: 1
+--------
+Client B sending frame #2 to client A
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: AAAAAAAAAA
+Sender IP address: 4.3.2.1, Receiver IP address: 1.2.3.4
+Sender port number: 895, Receiver port number: 7541
+Sender ID: B, Receiver ID: A
+Message chunk carried: ", whoop-sc"
+Number of hops so far: 1
+--------
+Client B sending frame #3 to client A
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: AAAAAAAAAA
+Sender IP address: 4.3.2.1, Receiver IP address: 1.2.3.4
+Sender port number: 895, Receiver port number: 7541
+Sender ID: B, Receiver ID: A
+Message chunk carried: "oop."
+Number of hops so far: 1
+--------
+Client B sending frame #1 to client C
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 4.3.2.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: B, Receiver ID: C
+Message chunk carried: "Whoop-didd"
+Number of hops so far: 1
+--------
+Client B sending frame #2 to client C
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 4.3.2.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: B, Receiver ID: C
+Message chunk carried: "y-scoop."
+Number of hops so far: 1
+--------
+Client C sending frame #1 to client B
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: E
+Message chunk carried: "Poopy-di s"
+Number of hops so far: 1
+--------
+Client C sending frame #2 to client B
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: E
+Message chunk carried: "coop, Scoo"
+Number of hops so far: 1
+--------
+Client C sending frame #3 to client B
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: E
+Message chunk carried: "p-diddy-wh"
+Number of hops so far: 1
+--------
+Client C sending frame #4 to client B
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: E
+Message chunk carried: "oop, Whoop"
+Number of hops so far: 1
+--------
+Client C sending frame #5 to client B
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: E
+Message chunk carried: "-di-scoop-"
+Number of hops so far: 1
+--------
+Client C sending frame #6 to client B
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 8.8.8.8, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: E
+Message chunk carried: "di-poop."
+Number of hops so far: 1
+--------
+Client C sending frame #1 to client A
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: AAAAAAAAAA
+Sender IP address: 8.8.8.8, Receiver IP address: 1.2.3.4
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: A
+Message chunk carried: "Scoop-didd"
+Number of hops so far: 1
+--------
+Client C sending frame #2 to client A
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: AAAAAAAAAA
+Sender IP address: 8.8.8.8, Receiver IP address: 1.2.3.4
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: A
+Message chunk carried: "y-whoop."
+Number of hops so far: 1
+--------
+Client D sending frame #1 to client E
+Sender MAC address: DDDDDDDDDD, Receiver MAC address: EEEEEEEEEE
+Sender IP address: 9.9.9.9, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: D, Receiver ID: E
+Message chunk carried: "Poop, poop"
+Number of hops so far: 1
+--------
+Client D sending frame #2 to client E
+Sender MAC address: DDDDDDDDDD, Receiver MAC address: EEEEEEEEEE
+Sender IP address: 9.9.9.9, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: D, Receiver ID: E
+Message chunk carried: "."
+Number of hops so far: 1
+--------
+Client E sending frame #1 to client D
+Sender MAC address: EEEEEEEEEE, Receiver MAC address: DDDDDDDDDD
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "Poop-di-sc"
+Number of hops so far: 1
+--------
+Client E sending frame #2 to client D
+Sender MAC address: EEEEEEEEEE, Receiver MAC address: DDDDDDDDDD
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "oopty, Sco"
+Number of hops so far: 1
+--------
+Client E sending frame #3 to client D
+Sender MAC address: EEEEEEEEEE, Receiver MAC address: DDDDDDDDDD
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "opty-whoop"
+Number of hops so far: 1
+--------
+Client E sending frame #4 to client D
+Sender MAC address: EEEEEEEEEE, Receiver MAC address: DDDDDDDDDD
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "."
+Number of hops so far: 1
+--------
+----------------
+Command: RECEIVE
+----------------
+Client A receiving frame #1 from client B, originating from client B
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: AAAAAAAAAA
+Sender IP address: 4.3.2.1, Receiver IP address: 1.2.3.4
+Sender port number: 895, Receiver port number: 7541
+Sender ID: B, Receiver ID: A
+Message chunk carried: "Poop-diddy"
+Number of hops so far: 1
+--------
+Client A receiving frame #2 from client B, originating from client B
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: AAAAAAAAAA
+Sender IP address: 4.3.2.1, Receiver IP address: 1.2.3.4
+Sender port number: 895, Receiver port number: 7541
+Sender ID: B, Receiver ID: A
+Message chunk carried: ", whoop-sc"
+Number of hops so far: 1
+--------
+Client A receiving frame #3 from client B, originating from client B
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: AAAAAAAAAA
+Sender IP address: 4.3.2.1, Receiver IP address: 1.2.3.4
+Sender port number: 895, Receiver port number: 7541
+Sender ID: B, Receiver ID: A
+Message chunk carried: "oop."
+Number of hops so far: 1
+--------
+Client A received the message "Poop-diddy, whoop-scoop." from client B.
+--------
+Client A receiving frame #1 from client C, originating from client C
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: AAAAAAAAAA
+Sender IP address: 8.8.8.8, Receiver IP address: 1.2.3.4
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: A
+Message chunk carried: "Scoop-didd"
+Number of hops so far: 1
+--------
+Client A receiving frame #2 from client C, originating from client C
+Sender MAC address: CCCCCCCCCC, Receiver MAC address: AAAAAAAAAA
+Sender IP address: 8.8.8.8, Receiver IP address: 1.2.3.4
+Sender port number: 895, Receiver port number: 7541
+Sender ID: C, Receiver ID: A
+Message chunk carried: "y-whoop."
+Number of hops so far: 1
+--------
+Client A received the message "Scoop-diddy-whoop." from client C.
+--------
+Client B receiving frame #1 from client A, but intended for client E. Forwarding...
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client B receiving frame #2 from client A, but intended for client E. Forwarding...
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client B receiving frame #3 from client A, but intended for client E. Forwarding...
+Error: Unreachable destination. Packets are dropped after 1 hops!
+--------
+Client B receiving frame #1 from client A, but intended for client E. Forwarding...
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client B receiving frame #2 from client A, but intended for client E. Forwarding...
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client B receiving frame #3 from client A, but intended for client E. Forwarding...
+Error: Unreachable destination. Packets are dropped after 1 hops!
+--------
+Client B receiving a message from client A, but intended for client D. Forwarding...
+Frame #1 MAC address change: New sender MAC BBBBBBBBBB, new receiver MAC DDDDDDDDDD
+Frame #2 MAC address change: New sender MAC BBBBBBBBBB, new receiver MAC DDDDDDDDDD
+Frame #3 MAC address change: New sender MAC BBBBBBBBBB, new receiver MAC DDDDDDDDDD
+--------
+Client B receiving frame #1 from client A, originating from client A
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "whoop-poop"
+Number of hops so far: 1
+--------
+Client B receiving frame #2 from client A, originating from client A
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: ", Whoopity"
+Number of hops so far: 1
+--------
+Client B receiving frame #3 from client A, originating from client A
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 1.2.3.4, Receiver IP address: 4.3.2.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: B
+Message chunk carried: "-scoop."
+Number of hops so far: 1
+--------
+Client B received the message "whoop-poop, Whoopity-scoop." from client A.
+--------
+Client B receiving frame #1 from client C, but intended for client E. Forwarding...
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client B receiving frame #2 from client C, but intended for client E. Forwarding...
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client B receiving frame #3 from client C, but intended for client E. Forwarding...
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client B receiving frame #4 from client C, but intended for client E. Forwarding...
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client B receiving frame #5 from client C, but intended for client E. Forwarding...
+Error: Unreachable destination. Packets are dropped after 1 hops!
+Client B receiving frame #6 from client C, but intended for client E. Forwarding...
+Error: Unreachable destination. Packets are dropped after 1 hops!
+--------
+Client C receiving frame #1 from client A, originating from client A
+Sender MAC address: AAAAAAAAAA, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 1.2.3.4, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: C
+Message chunk carried: "ENDL."
+Number of hops so far: 1
+--------
+Client C received the message "ENDL." from client A.
+--------
+Client C receiving frame #1 from client B, originating from client B
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 4.3.2.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: B, Receiver ID: C
+Message chunk carried: "Whoop-didd"
+Number of hops so far: 1
+--------
+Client C receiving frame #2 from client B, originating from client B
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 4.3.2.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: B, Receiver ID: C
+Message chunk carried: "y-scoop."
+Number of hops so far: 1
+--------
+Client C received the message "Whoop-diddy-scoop." from client B.
+--------
+Client D receiving a message from client E, but intended for client C. Forwarding...
+Frame #1 MAC address change: New sender MAC DDDDDDDDDD, new receiver MAC BBBBBBBBBB
+Frame #2 MAC address change: New sender MAC DDDDDDDDDD, new receiver MAC BBBBBBBBBB
+Frame #3 MAC address change: New sender MAC DDDDDDDDDD, new receiver MAC BBBBBBBBBB
+Frame #4 MAC address change: New sender MAC DDDDDDDDDD, new receiver MAC BBBBBBBBBB
+--------
+Client E receiving frame #1 from client D, originating from client D
+Sender MAC address: DDDDDDDDDD, Receiver MAC address: EEEEEEEEEE
+Sender IP address: 9.9.9.9, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: D, Receiver ID: E
+Message chunk carried: "Poop, poop"
+Number of hops so far: 1
+--------
+Client E receiving frame #2 from client D, originating from client D
+Sender MAC address: DDDDDDDDDD, Receiver MAC address: EEEEEEEEEE
+Sender IP address: 9.9.9.9, Receiver IP address: 0.0.1.1
+Sender port number: 895, Receiver port number: 7541
+Sender ID: D, Receiver ID: E
+Message chunk carried: "."
+Number of hops so far: 1
+--------
+Client E received the message "Poop, poop." from client D.
+--------
+-------------
+Command: SEND
+-------------
+Client B sending frame #1 to client D
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: DDDDDDDDDD
+Sender IP address: 1.2.3.4, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: D
+Message chunk carried: "Whoop-didd"
+Number of hops so far: 2
+--------
+Client B sending frame #2 to client D
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: DDDDDDDDDD
+Sender IP address: 1.2.3.4, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: D
+Message chunk carried: "y-scoop, p"
+Number of hops so far: 2
+--------
+Client B sending frame #3 to client D
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: DDDDDDDDDD
+Sender IP address: 1.2.3.4, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: D
+Message chunk carried: "oop."
+Number of hops so far: 2
+--------
+Client D sending frame #1 to client B
+Sender MAC address: DDDDDDDDDD, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "Poop-di-sc"
+Number of hops so far: 2
+--------
+Client D sending frame #2 to client B
+Sender MAC address: DDDDDDDDDD, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "oopty, Sco"
+Number of hops so far: 2
+--------
+Client D sending frame #3 to client B
+Sender MAC address: DDDDDDDDDD, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "opty-whoop"
+Number of hops so far: 2
+--------
+Client D sending frame #4 to client B
+Sender MAC address: DDDDDDDDDD, Receiver MAC address: BBBBBBBBBB
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "."
+Number of hops so far: 2
+--------
+----------------
+Command: RECEIVE
+----------------
+Client B receiving a message from client D, but intended for client C. Forwarding...
+Frame #1 MAC address change: New sender MAC BBBBBBBBBB, new receiver MAC CCCCCCCCCC
+Frame #2 MAC address change: New sender MAC BBBBBBBBBB, new receiver MAC CCCCCCCCCC
+Frame #3 MAC address change: New sender MAC BBBBBBBBBB, new receiver MAC CCCCCCCCCC
+Frame #4 MAC address change: New sender MAC BBBBBBBBBB, new receiver MAC CCCCCCCCCC
+--------
+Client D receiving frame #1 from client B, originating from client A
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: DDDDDDDDDD
+Sender IP address: 1.2.3.4, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: D
+Message chunk carried: "Whoop-didd"
+Number of hops so far: 2
+--------
+Client D receiving frame #2 from client B, originating from client A
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: DDDDDDDDDD
+Sender IP address: 1.2.3.4, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: D
+Message chunk carried: "y-scoop, p"
+Number of hops so far: 2
+--------
+Client D receiving frame #3 from client B, originating from client A
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: DDDDDDDDDD
+Sender IP address: 1.2.3.4, Receiver IP address: 9.9.9.9
+Sender port number: 895, Receiver port number: 7541
+Sender ID: A, Receiver ID: D
+Message chunk carried: "oop."
+Number of hops so far: 2
+--------
+Client D received the message "Whoop-diddy-scoop, poop." from client A.
+--------
+-------------
+Command: SEND
+-------------
+Client B sending frame #1 to client C
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "Poop-di-sc"
+Number of hops so far: 3
+--------
+Client B sending frame #2 to client C
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "oopty, Sco"
+Number of hops so far: 3
+--------
+Client B sending frame #3 to client C
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "opty-whoop"
+Number of hops so far: 3
+--------
+Client B sending frame #4 to client C
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "."
+Number of hops so far: 3
+--------
+----------------
+Command: RECEIVE
+----------------
+Client C receiving frame #1 from client B, originating from client E
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "Poop-di-sc"
+Number of hops so far: 3
+--------
+Client C receiving frame #2 from client B, originating from client E
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "oopty, Sco"
+Number of hops so far: 3
+--------
+Client C receiving frame #3 from client B, originating from client E
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "opty-whoop"
+Number of hops so far: 3
+--------
+Client C receiving frame #4 from client B, originating from client E
+Sender MAC address: BBBBBBBBBB, Receiver MAC address: CCCCCCCCCC
+Sender IP address: 0.0.1.1, Receiver IP address: 8.8.8.8
+Sender port number: 895, Receiver port number: 7541
+Sender ID: E, Receiver ID: C
+Message chunk carried: "."
+Number of hops so far: 3
+--------
+Client C received the message "Poop-di-scoopty, Scoopty-whoop." from client E.
+--------
+-------------
+Command: SEND
+-------------
+----------------
+Command: RECEIVE
+----------------
+-------------
+Command: SEND
+-------------
+----------------
+Command: RECEIVE
+----------------
+-------------
+Command: SEND
+-------------
+----------------
+Command: RECEIVE
+----------------
+-------------
+Command: SEND
+-------------
+----------------
+Command: RECEIVE
+----------------
+-------------
+Command: SEND
+-------------
+----------------
+Command: RECEIVE
+----------------
+-------------
+Command: SEND
+-------------
+----------------
+Command: RECEIVE
+----------------
+-------------
+Command: SEND
+-------------
+----------------
+Command: RECEIVE
+----------------
+-------------
+Command: SEND
+-------------
+----------------
+Command: RECEIVE
+----------------
+-------------------------------
+Command: SHOW_FRAME_INFO A in 1
+-------------------------------
+No such frame.
+--------------------------------
+Command: SHOW_FRAME_INFO B out 2
+--------------------------------
+No such frame.
+-------------------------------
+Command: SHOW_FRAME_INFO C in 3
+-------------------------------
+No such frame.
+-------------------------------
+Command: SHOW_FRAME_INFO A in 3
+-------------------------------
+No such frame.
+--------------------------------
+Command: SHOW_FRAME_INFO B out 2
+--------------------------------
+No such frame.
+-------------------------------
+Command: SHOW_FRAME_INFO C in 1
+-------------------------------
+No such frame.
+--------------------
+Command: PRINT_LOG A
+--------------------
+Client A Logs:
+--------------
+Log Entry #1:
+Activity: Message Sent
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 3
+Number of hops: 0
+Sender ID: A
+Receiver ID: E
+Success: Yes
+Message: "Whoopity-scoop, whoop-poop."
+--------------
+Log Entry #2:
+Activity: Message Sent
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 3
+Number of hops: 0
+Sender ID: A
+Receiver ID: E
+Success: Yes
+Message: "whoop-poop, Whoopity-scoop."
+--------------
+Log Entry #3:
+Activity: Message Sent
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 3
+Number of hops: 0
+Sender ID: A
+Receiver ID: D
+Success: Yes
+Message: "Whoop-diddy-scoop, poop."
+--------------
+Log Entry #4:
+Activity: Message Sent
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 3
+Number of hops: 0
+Sender ID: A
+Receiver ID: B
+Success: Yes
+Message: "whoop-poop, Whoopity-scoop."
+--------------
+Log Entry #5:
+Activity: Message Sent
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 1
+Number of hops: 0
+Sender ID: A
+Receiver ID: C
+Success: Yes
+Message: "ENDL."
+--------------
+Log Entry #6:
+Activity: Message Received
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 3
+Number of hops: 1
+Sender ID: B
+Receiver ID: A
+Success: Yes
+Message: "Poop-diddy, whoop-scoop."
+--------------
+Log Entry #7:
+Activity: Message Received
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 2
+Number of hops: 1
+Sender ID: C
+Receiver ID: A
+Success: Yes
+Message: "Scoop-diddy-whoop."
+--------------------
+Command: PRINT_LOG B
+--------------------
+Client B Logs:
+--------------
+Log Entry #1:
+Activity: Message Sent
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 3
+Number of hops: 0
+Sender ID: B
+Receiver ID: A
+Success: Yes
+Message: "Poop-diddy, whoop-scoop."
+--------------
+Log Entry #2:
+Activity: Message Sent
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 2
+Number of hops: 0
+Sender ID: B
+Receiver ID: C
+Success: Yes
+Message: "Whoop-diddy-scoop."
+--------------
+Log Entry #3:
+Activity: Message Dropped
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 3
+Number of hops: 1
+Sender ID: A
+Receiver ID: E
+Success: No
+--------------
+Log Entry #4:
+Activity: Message Dropped
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 3
+Number of hops: 1
+Sender ID: A
+Receiver ID: E
+Success: No
+--------------
+Log Entry #5:
+Activity: Message Forwarded
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 3
+Number of hops: 1
+Sender ID: A
+Receiver ID: D
+Success: Yes
+--------------
+Log Entry #6:
+Activity: Message Received
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 3
+Number of hops: 1
+Sender ID: A
+Receiver ID: B
+Success: Yes
+Message: "whoop-poop, Whoopity-scoop."
+--------------
+Log Entry #7:
+Activity: Message Dropped
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 6
+Number of hops: 1
+Sender ID: C
+Receiver ID: E
+Success: No
+--------------
+Log Entry #8:
+Activity: Message Forwarded
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 4
+Number of hops: 2
+Sender ID: E
+Receiver ID: C
+Success: Yes
+--------------------
+Command: PRINT_LOG C
+--------------------
+Client C Logs:
+--------------
+Log Entry #1:
+Activity: Message Sent
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 6
+Number of hops: 0
+Sender ID: C
+Receiver ID: E
+Success: Yes
+Message: "Poopy-di scoop, Scoop-diddy-whoop, Whoop-di-scoop-di-poop."
+--------------
+Log Entry #2:
+Activity: Message Sent
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 2
+Number of hops: 0
+Sender ID: C
+Receiver ID: A
+Success: Yes
+Message: "Scoop-diddy-whoop."
+--------------
+Log Entry #3:
+Activity: Message Received
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 1
+Number of hops: 1
+Sender ID: A
+Receiver ID: C
+Success: Yes
+Message: "ENDL."
+--------------
+Log Entry #4:
+Activity: Message Received
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 2
+Number of hops: 1
+Sender ID: B
+Receiver ID: C
+Success: Yes
+Message: "Whoop-diddy-scoop."
+--------------
+Log Entry #5:
+Activity: Message Received
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 4
+Number of hops: 3
+Sender ID: E
+Receiver ID: C
+Success: Yes
+Message: "Poop-di-scoopty, Scoopty-whoop."
+--------------------
+Command: PRINT_LOG D
+--------------------
+Client D Logs:
+--------------
+Log Entry #1:
+Activity: Message Sent
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 2
+Number of hops: 0
+Sender ID: D
+Receiver ID: E
+Success: Yes
+Message: "Poop, poop."
+--------------
+Log Entry #2:
+Activity: Message Forwarded
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 4
+Number of hops: 1
+Sender ID: E
+Receiver ID: C
+Success: Yes
+--------------
+Log Entry #3:
+Activity: Message Received
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 3
+Number of hops: 2
+Sender ID: A
+Receiver ID: D
+Success: Yes
+Message: "Whoop-diddy-scoop, poop."
+--------------------
+Command: PRINT_LOG E
+--------------------
+Client E Logs:
+--------------
+Log Entry #1:
+Activity: Message Sent
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 4
+Number of hops: 0
+Sender ID: E
+Receiver ID: C
+Success: Yes
+Message: "Poop-di-scoopty, Scoopty-whoop."
+--------------
+Log Entry #2:
+Activity: Message Received
+Timestamp: 2023-12-04 00:07:58
+Number of frames: 2
+Number of hops: 1
+Sender ID: D
+Receiver ID: E
+Success: Yes
+Message: "Poop, poop."
+--------------------------------
+Command: MOD_DPTOOLS_EAVESDROP C
+--------------------------------
+Invalid command.
