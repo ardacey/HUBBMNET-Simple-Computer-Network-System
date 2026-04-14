@@ -1,7 +1,3 @@
-//
-// Created by alperen on 2.10.2023.
-//
-
 #ifndef SRC_LOG_H
 #define SRC_LOG_H
 

@@ -13,5 +13,4 @@ Log::Log(const string &_timestamp, const string &_message, int _number_of_frames
 }
 
 Log::~Log() {
-    // TODO: Free any dynamically allocated memory if necessary.
 }

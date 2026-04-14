@@ -1,0 +1,20 @@
+# Build outputs
+*.exe
+*.obj
+*.o
+*.out
+*.pdb
+*.ilk
+*.dll
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Common local build directories
+build/
+cmake-build-*/
+
+# Temporary files
+*.log
+*.tmp
